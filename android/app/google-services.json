@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992005682289",
+    "project_id": "votechain-a1c4e",
+    "storage_bucket": "votechain-a1c4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992005682289:android:07bdf526c724b0d52857d0",
+        "android_client_info": {
+          "package_name": "com.example.votechain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992005682289-j3vbjrd987g225dmhk57k5jt2daeucg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY8rIDaALNuR3uxceXMa90fnFgQNnQuaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992005682289-j3vbjrd987g225dmhk57k5jt2daeucg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
